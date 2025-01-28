@@ -125,16 +125,8 @@ class Walker {
       this.x += direction.dx;
       this.y += direction.dy;
       // Constrain x and y to stay within canvas bounds
-      this.x = constrain(
-        this.x,
-        this.pointSize / 2,
-        width - Walker.blockSize - this.pointSize / 2
-      );
-      this.y = constrain(
-        this.y,
-        this.pointSize / 2,
-        height - Walker.blockSize - this.pointSize / 2
-      );
+      this.x = constrain(this.x, 0, width - Walker.blockSize);
+      this.y = constrain(this.y, 0, height - Walker.blockSize);
       this._setPositionTrue(this.x, this.y);
     }
   }

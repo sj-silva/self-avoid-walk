@@ -11,7 +11,7 @@ Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk"
 ## 📸 Exemplo
 
 <div align="center">
-  <img src="example.png" alt="Exemplo do Self-Avoiding Walk em ação" />
+  <img src="images/example.gif" alt="Exemplo do Self-Avoiding Walk em ação" />
 </div>
 
 ## 📋 Características

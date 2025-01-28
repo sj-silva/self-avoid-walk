@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk" (Caminhada Auto-Evitante), um conceito matemático onde um caminhante se move em uma grade, nunca visitando a mesma posição duas vezes.
+Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk" (Caminhada Auto-Evitante), um conceito matemático onde um caminhante se move em uma grade, nunca visitando a mesma posição duas vezes. Este projeto foi inspirado no vídeo do canal **The Coding Train**, que você pode assistir [aqui](https://youtu.be/m6-cm6GZ1iw?si=g3c8ZcHUzDjpAVk9).
 
 ## 📸 Exemplo
 
@@ -34,7 +34,6 @@ Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk"
 
 ```bash
 git clone https://github.com/sj-silva/self-avoid-walk.git
-```
 
 2. Abra o arquivo `index.html` em um servidor web local
 
@@ -43,13 +42,15 @@ git clone https://github.com/sj-silva/self-avoid-walk.git
 ## 📦 Estrutura do Projeto
 
 ```
+
 /self-avoiding-walk
 │
-├── index.html         # Página principal
-├── main.js            # Lógica principal do projeto
-├── style.css          # Estilos CSS
-└── README.md          # Esta documentação
-```
+├── index.html # Página principal
+├── main.js # Lógica principal do projeto
+├── style.css # Estilos CSS
+└── README.md # Esta documentação
+
+````
 
 ## 🎮 Como Funciona
 
@@ -70,7 +71,7 @@ const WINDOW_WIDTH = 400; // Largura da janela
 const WINDOW_HEIGHT = 400; // Altura da janela
 const RELOAD_INTERVAL = 5000; // Intervalo de recarga
 const MOVE_INTERVAL = 200; // Intervalo entre movimentos
-```
+````
 
 ## 🎨 Personalização
 

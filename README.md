@@ -1,5 +1,9 @@
 # Self-Avoiding Walk
 
+## Live Demo
+
+Veja a demonstração online: Visualização do projeto [Self-Avoiding Walk](https://sj-silva.github.io/self-avoid-walk/)
+
 ## 🚀 Sobre o Projeto
 
 Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk" (Caminhada Auto-Evitante), um conceito matemático onde um caminhante se move em uma grade, nunca visitando a mesma posição duas vezes. Este projeto foi inspirado no vídeo do canal **The Coding Train**, que você pode assistir [aqui](https://youtu.be/m6-cm6GZ1iw?si=g3c8ZcHUzDjpAVk9).

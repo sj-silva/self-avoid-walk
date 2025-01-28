@@ -4,6 +4,10 @@
 
 Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk" (Caminhada Auto-Evitante), um conceito matemático onde um caminhante se move em uma grade, nunca visitando a mesma posição duas vezes.
 
+## 📸 Exemplo
+
+![Exemplo do Self-Avoiding Walk em ação](example.png)
+
 ## 📋 Características
 
 - Visualização em tempo real do caminho percorrido

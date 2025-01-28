@@ -6,7 +6,9 @@ Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk"
 
 ## 📸 Exemplo
 
-![Exemplo do Self-Avoiding Walk em ação](example.png)
+<div align="center">
+  <img src="example.png" alt="Exemplo do Self-Avoiding Walk em ação" />
+</div>
 
 ## 📋 Características
 

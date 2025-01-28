@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-Veja a demonstração online: Visualização do projeto [Self-Avoiding Walk](https://sj-silva.github.io/self-avoid-walk/)
+Veja a demonstração online do projeto [Self-Avoiding Walk](https://sj-silva.github.io/self-avoid-walk/)
 
 ## 🚀 Sobre o Projeto
 

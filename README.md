@@ -34,6 +34,7 @@ Este projeto implementa uma visualização interativa de um "Self-Avoiding Walk"
 
 ```bash
 git clone https://github.com/sj-silva/self-avoid-walk.git
+```
 
 2. Abra o arquivo `index.html` em um servidor web local
 
@@ -50,7 +51,7 @@ git clone https://github.com/sj-silva/self-avoid-walk.git
 ├── style.css # Estilos CSS
 └── README.md # Esta documentação
 
-````
+```
 
 ## 🎮 Como Funciona
 
@@ -71,7 +72,7 @@ const WINDOW_WIDTH = 400; // Largura da janela
 const WINDOW_HEIGHT = 400; // Altura da janela
 const RELOAD_INTERVAL = 5000; // Intervalo de recarga
 const MOVE_INTERVAL = 200; // Intervalo entre movimentos
-````
+```
 
 ## 🎨 Personalização
 
